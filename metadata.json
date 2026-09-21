@@ -1,0 +1,6 @@
+{
+  "name": "BrainBuy",
+  "description": "AI-Powered Student Marketplace App for peer-to-peer exchanges and textbook trades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
